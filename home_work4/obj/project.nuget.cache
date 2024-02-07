@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1b1UsDvae0YzL4t5n0X/OyiclvcM4cX7GyGmWoWxRpDgbh1DVDM86gMrC79PG5RK8oVQ1n6Qg7CnLtogpTL5ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FA507XV\\Desktop\\home_work\\home_work4\\home_work4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FA507XV\\.nuget\\packages\\dryioc.dll\\5.4.3\\dryioc.dll.5.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
